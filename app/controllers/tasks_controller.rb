@@ -15,5 +15,4 @@ class TasksController < ApplicationController
     params.require(:task).permit(:done)
   end
 
-
 end
