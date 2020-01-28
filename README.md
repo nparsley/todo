@@ -16,3 +16,9 @@
 <img src='todoadd1.PNG'>
 
 * The user can add an item to the checklist by entering it into the top box.
+
+<img src='todoadd2.PNG'> 
+<img src='todoadd3.PNG'>
+
+* Items that are completed can be checked off and will be come crossed off.
+* The user can uncheck an item and it will appear as still needing to be done.
