@@ -12,6 +12,7 @@
 
 # EDITING TODOS
 
-<img src='todoadd.PNG'> <img src='todoadd1.PNG'>
+<img src='todoadd.PNG'> 
+<img src='todoadd1.PNG'>
 
 * The user can add an item to the checklist by entering it into the top box.
