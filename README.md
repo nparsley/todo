@@ -1,24 +1,17 @@
-# README
+# OVERVIEW
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Application with a fluid user interface allowing users to rapidly add dynamic content.
 
-Things you may want to cover:
 
-* Ruby version
+# LANDING PAGE
 
-* System dependencies
+<img src='todohome.PNG'>
 
-* Configuration
+* The user will be sent to the landing page that has a todo list readily availble for the user to edit.
 
-* Database creation
 
-* Database initialization
+# EDITING TODOS
 
-* How to run the test suite
+<img src='todoadd.PNG'> <img src='todoadd1.PNG'>
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* The user can add an item to the checklist by entering it into the top box.
