@@ -20,5 +20,5 @@
 <img src='todoadd2.PNG'> 
 <img src='todoadd3.PNG'>
 
-* Items that are completed can be checked off and will become crossed off.
-* The user can uncheck an item and it will appear as still needing to be done.
+* Items that are completed can be checked off and will be shown as crossed off.
+* The user can uncheck an item and it will be shown as incomplete.
